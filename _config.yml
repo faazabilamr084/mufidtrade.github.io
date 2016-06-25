@@ -30,8 +30,6 @@ social:
     url: https://facebook.com/faazabilamri
   - title: instagram
     url: https://instagram.com/mufidtrade
-  - title: fanspage
-    url: https://facebook.com/mufidtrade
     
     # html minify
 compress_html:
